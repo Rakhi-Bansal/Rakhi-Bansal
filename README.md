@@ -26,9 +26,8 @@
 
 </div>
 <div align="left"> 
-  Senior Analyst with years of experience optimizing data pipelines and delivering insights that improved business outcomes
-  by 30%. Specialized in SQL, Power BI, and Python, with expertise in data cleaning, ETL automation, and dashboard
-  storytelling. Developed impactful insights that enabled 15% cost savings and improved decision-making efficiency by 20%
+  Aspiring Data Scientist and Data Analyst with a background in e-commerce and experience in data-driven business operations. Skilled in Python, SQL, Power BI, Machine Learning, and Deep Learning, with a focus on building practical projects and solving real-world problems using data.
+
 </div>
 
 
@@ -63,12 +62,13 @@ I believe that **learning should focus on understanding concepts, not memorizing
 <td align="left">
   
 ## 🛠Tech Stacks (Technical Skills)
-- 📊**Data Analysis Tools:** Power BI, Tableau, Excel(Advanced) </br>
+- 📊**Data Analysis Tools:** Power BI, Excel(Advanced) </br>
 - 📝**Programming Languages:** Python (Pandas, NumPy, Seaborn), SQL </br>
-- 📘**Databases:** SQL Server, PostgreSQL, MySQL </br>
-- 💻**ETL & Data Integration:** SSIS, SSAS, Power Query, Alteryx  </br>
+- 📘**Databases:** SQL Server, MySQL </br>
+- 🤖**Machine Learning: Scikit-learn, Regression, Classification, Clustering, Feature Engineering </br>
+- 🧠**Deep Learning: ANN, TensorFlow, Keras </br>
+- 🔍**Data Science: Data Cleaning, EDA, Data Visualization, Predictive Modeling </br>
 - 📥**Advanced Analytics:** Data Mining, Forecasting, Trend Analysis </br>
-
 - ☁**Power BI Service:** RLS, Deployment Pipelines, Data Gateways, Refreshes  </br>
 - 📐**Data Governance:** Data Audits, Data Lineage, Change Management  </br>
 
