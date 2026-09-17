@@ -59,6 +59,8 @@ I believe that **learning should focus on understanding concepts, not memorizing
 
 <!-- -------------------4)Start: Tech stack-------------------------------------------------------------->
 <td align="left">
+
+## 🛠 Tech Stacks (Technical Skills)
   
 - 📊 **Data Analysis Tools:** Power BI, Advanced Excel </br>
 - 📝 **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL </br>
