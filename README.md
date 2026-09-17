@@ -48,8 +48,7 @@
 #### 🎯Goal 
 <p>Along with professional excellence, my goal is to build a valuable learning platforms for:</p>
 
-- **Data Analytics** (SQL,Python,Power BI, Fabric)
-  
+- **Data Analytics** (SQL,Python,Power BI, Fabric)  
 - **Data Engineering** (SQL,Pyspark,Azure)
 - **Artificial Intelligence**
 
@@ -61,16 +60,14 @@ I believe that **learning should focus on understanding concepts, not memorizing
 <!-- -------------------4)Start: Tech stack-------------------------------------------------------------->
 <td align="left">
   
-## 🛠Tech Stacks (Technical Skills)
-- 📊**Data Analysis Tools:** Power BI, Excel(Advanced) </br>
-- 📝**Programming Languages:** Python (Pandas, NumPy, Seaborn), SQL </br>
-- 📘**Databases:** SQL Server, MySQL </br>
-- 🤖**Machine Learning: Scikit-learn, Regression, Classification, Clustering, Feature Engineering </br>
-- 🧠**Deep Learning: ANN, TensorFlow, Keras </br>
-- 🔍**Data Science: Data Cleaning, EDA, Data Visualization, Predictive Modeling </br>
-- 📥**Advanced Analytics:** Data Mining, Forecasting, Trend Analysis </br>
-- ☁**Power BI Service:** RLS, Deployment Pipelines, Data Gateways, Refreshes  </br>
-- 📐**Data Governance:** Data Audits, Data Lineage, Change Management  </br>
+- 📊 **Data Analysis Tools:** Power BI, Advanced Excel </br>
+- 📝 **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL </br>
+- 📘 **Databases:** SQL Server, MySQL </br>
+- 🤖 **Machine Learning:** Scikit-learn, Regression, Classification, Clustering, Feature Engineering </br>
+- 🧠 **Deep Learning:** ANN, TensorFlow, Keras </br>
+- 🔍 **Data Science:** Data Cleaning, EDA, Data Visualization, Predictive Modeling </br>
+- 📥 **Advanced Analytics:** Data Mining, Forecasting, Trend Analysis </br>
+- ☁️ **Power BI Service:** RLS, Deployment Pipelines, Data Gateways, Refreshes </br>
 
 
 <p> </p>
