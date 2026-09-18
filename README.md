@@ -49,21 +49,20 @@ Deep Learning and AI through hands-on projects.
 
 ## 👨‍💻 About Me
 
-🎯 Building my career in **Data Analytics & Data Science** </br>
+🎯Data Analyst | Aspiring Data Scientist </br>
 
 🎓Graduate from Delhi University</br>
 
 💼 Background in e-commerce and Business operations </br>
 
-<p>📊 Interested in transforming data into meaningful insights,
+<p>📊 Passionate about transforming data into meaningful insights,
 interactive dashboards and predictive solutions.</p>
 
 🤖 Currently expanding my skills in **Machine Learning, Deep Learning & AI**
 
 🚀 Focused on building **real-world projects** using data and AI
 
-
-I believe that **learning should focus on understanding concepts, 
+💡I believe that **learning should focus on understanding concepts, 
 solving problems and building projects — not just memorizing syntax.**
 
 <!-- -------------------3)End: About-------------------------------------------------------------->
