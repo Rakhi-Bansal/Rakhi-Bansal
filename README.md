@@ -45,16 +45,22 @@ I use Python, SQL, Power BI, and Machine Learning to explore data, uncover patte
 
 ## 👨‍💻 About Me
 
-💼Currently working as a **Data Analyst** </br>
+🎯 Building my career in **Data Analytics & Data Science** </br>
+
 🎓Graduate from **Delhi Universty**</br>
-#### 🎯Goal 
-<p>Along with professional excellence, my goal is to build a valuable learning platforms for:</p>
 
-- **Data Analytics** (SQL,Python,Power BI, Fabric)  
-- **Data Engineering** (SQL,Pyspark,Azure)
-- **Artificial Intelligence**
+💼 Background in **e-commerce and data-driven business operations** </br>
 
-I believe that **learning should focus on understanding concepts, not memorizing syntax**
+<p>📊 Passionate about turning raw data into meaningful insights, 
+interactive dashboards and predictive solutions.</p>
+
+🤖 Currently expanding my skills in **Machine Learning, Deep Learning & AI**
+
+🚀 Focused on building **real-world projects** using data and AI
+
+
+I believe that **learning should focus on understanding concepts, 
+solving problems and building projects — not just memorizing syntax.**
 
 <!-- -------------------3)End: About-------------------------------------------------------------->
 </td>
@@ -64,14 +70,16 @@ I believe that **learning should focus on understanding concepts, not memorizing
 
 ## 🛠 Tech Stacks (Technical Skills)
   
-- 📊 **Data Analysis Tools:** Power BI, Advanced Excel </br>
-- 📝 **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL </br>
+- 📊 **Data Analysis Tools:** Power BI, Advanced Excel, EDA, Data Visualization </br>
+- 🐍 **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn) </br>
 - 📘 **Databases:** SQL Server, MySQL </br>
-- 🤖 **Machine Learning:** Scikit-learn, Regression, Classification, Clustering, Feature Engineering </br>
-- 🧠 **Deep Learning:** ANN, TensorFlow, Keras </br>
-- 🔍 **Data Science:** Data Cleaning, EDA, Data Visualization, Predictive Modeling </br>
-- 📥 **Advanced Analytics:** Data Mining, Forecasting, Trend Analysis </br>
-- ☁️ **Power BI Service:** RLS, Deployment Pipelines, Data Gateways, Refreshes </br>
+- 🤖 **Machine Learning:** Scikit-learn, Regression, Classification,
+- Clustering, Feature Engineering </br>
+- 🧠 **Deep Learning:** ANN, CNN, RNN, TensorFlow, Keras </br>
+- 🔍 **Data Science:** Data Cleaning, EDA, Feature Engineering,
+  Predictive Modeling </br>
+- 📉 **Analytics:** Trend Analysis, Forecasting, Business Insights </br>
+- ☁️ **Power BI:** DAX, Data Modeling, RLS, Dashboard Development </br>
 
 
 <p> </p>
