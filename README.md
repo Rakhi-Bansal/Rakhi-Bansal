@@ -22,11 +22,13 @@
 <!-- -------------------2)Start: Professional Summary-------------------------------------------------------------->  
 <div align="left"> 
 
-## Professional Summary: Data Analyst
+## Professional Summary: 📊 Data Analyst | 🤖 Aspiring Data Scientist
 
 </div>
 <div align="left"> 
-  Aspiring Data Scientist and Data Analyst with a background in e-commerce and experience in data-driven business operations. Skilled in Python, SQL, Power BI, Machine Learning, and Deep Learning, with a focus on building practical projects and solving real-world problems using data.
+  I’m transitioning into Data Analytics and Data Science, combining my background in e-commerce and business operations with hands-on skills in data and machine learning.
+
+I use Python, SQL, Power BI, and Machine Learning to explore data, uncover patterns, create actionable insights, and build predictive solutions. I’m currently expanding my knowledge of Deep Learning and AI while building practical projects focused on real-world problems.
 
 </div>
 
