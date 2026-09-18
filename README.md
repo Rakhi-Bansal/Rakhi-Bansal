@@ -22,13 +22,17 @@
 <!-- -------------------2)Start: Professional Summary-------------------------------------------------------------->  
 <div align="left"> 
 
-## Professional Summary: 📊 Data Analyst | 🤖 Aspiring Data Scientist
+## Data Analyst | Aspiring Data Scientist | Python • SQL • Power BI • Machine Learning • Deep Learning
 
 </div>
 <div align="left"> 
-  I’m transitioning into Data Analytics and Data Science, combining my background in e-commerce and business operations with hands-on skills in data and machine learning.
+I’m building my career in Data Analytics and Data Science, combining
+my background in e-commerce and business operations with hands-on
+skills in Python, SQL, Power BI and Machine Learning.
 
-I use Python, SQL, Power BI, and Machine Learning to explore data, uncover patterns, create actionable insights, and build predictive solutions. I’m currently expanding my knowledge of Deep Learning and AI while building practical projects focused on real-world problems.
+I enjoy transforming raw data into insights, visualizations and
+predictive solutions. Currently expanding my expertise in
+Deep Learning and AI through hands-on projects.
 
 </div>
 
@@ -47,11 +51,11 @@ I use Python, SQL, Power BI, and Machine Learning to explore data, uncover patte
 
 🎯 Building my career in **Data Analytics & Data Science** </br>
 
-🎓Graduate from **Delhi Universty**</br>
+🎓Graduate from Delhi University</br>
 
-💼 Background in **e-commerce and data-driven business operations** </br>
+💼 Background in e-commerce and Business operations </br>
 
-<p>📊 Passionate about turning raw data into meaningful insights, 
+<p>📊 Interested in transforming data into meaningful insights,
 interactive dashboards and predictive solutions.</p>
 
 🤖 Currently expanding my skills in **Machine Learning, Deep Learning & AI**
@@ -70,16 +74,15 @@ solving problems and building projects — not just memorizing syntax.**
 
 ## 🛠 Tech Stacks (Technical Skills)
   
-- 📊 **Data Analysis Tools:** Power BI, Advanced Excel, EDA, Data Visualization </br>
-- 🐍 **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn) </br>
-- 📘 **Databases:** SQL Server, MySQL </br>
-- 🤖 **Machine Learning:** Scikit-learn, Regression, Classification,
-- Clustering, Feature Engineering </br>
-- 🧠 **Deep Learning:** ANN, CNN, RNN, TensorFlow, Keras </br>
-- 🔍 **Data Science:** Data Cleaning, EDA, Feature Engineering,
+- 📊 **Data Analysis Tools:** Power BI • Advanced Excel • EDA • Data Visualization • DAX </br>
+- 🐍 **Programming Languages:** Python • Pandas • NumPy • Matplotlib • Seaborn </br>
+- 📘 **Databases:** SQL • SQL Server • MySQL </br>
+- 🤖 **Machine Learning:** Scikit-learn • Regression • Classification • Clustering
+• Feature Engineering • Model Evaluation </br>
+- 🧠 **Deep Learning:** TensorFlow • Keras • ANN • CNN • RNN </br>
+- 🔍 **Data Science:** Data Cleaning • EDA • Feature Engineering • Predictive Modeling </br>
   Predictive Modeling </br>
-- 📉 **Analytics:** Trend Analysis, Forecasting, Business Insights </br>
-- ☁️ **Power BI:** DAX, Data Modeling, RLS, Dashboard Development </br>
+- 🔧 **Tools:** • VS Code • Jupyter Notebook </br>
 
 <p> </p>
 
