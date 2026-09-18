@@ -81,7 +81,6 @@ solving problems and building projects — not just memorizing syntax.**
 - 📉 **Analytics:** Trend Analysis, Forecasting, Business Insights </br>
 - ☁️ **Power BI:** DAX, Data Modeling, RLS, Dashboard Development </br>
 
-
 <p> </p>
 
 <p align="center">
