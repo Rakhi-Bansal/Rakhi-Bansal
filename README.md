@@ -9,7 +9,7 @@
     <a href="rakhi.29aug@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-purple?style=for-the-badge&logo=Gmail">
     </a>
-    <a href="https://linkedin.com/in/rakhi-bansal">
+    <a href="https://linkedin.com/in/rakhi-bansal-a2685222a/">
     <img src="https://img.shields.io/badge/LinkedIn-Rakhi%20Bansal-blue?style=for-the-badge&logo=linkedin">
     </a>
     <a href="https://github.com/Rakhi-Bansal">
